@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ridoy Hasan
 
-<!--
-**ridoy1211/ridoy1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate (BSc, Comilla University) working on scientific machine learning, with a focus on physics-informed neural networks and honest, reproducible evaluation.
 
-Here are some ideas to get you started:
+## Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[pinn-audit](https://github.com/ridoy1211/pinn-audit)**: a reproducible test of whether physics-informed neural networks actually beat classical PDE solvers, benchmarked against exact solutions.
+- **[The Great Decoupling](https://ridoy1211.github.io/Flyrank-Internship-ML/)**: a research paper on detecting search pages that keep their impressions but lose clicks, built on a 79M-row production warehouse with client-grouped validation and a leakage audit. [Code](https://github.com/ridoy1211/Flyrank-Internship-ML)
+
+## Tools
+
+Python · NumPy · pandas · Matplotlib · PyTorch · scikit-learn · DuckDB · R · Stata
+
+## Contact
+
+hridoydez@gmail.com
